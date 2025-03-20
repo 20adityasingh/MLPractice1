@@ -1,7 +1,7 @@
 MLPractice1
 
 
-This repository provides practical implementations of key machine learning concepts using Jupyter Notebooks. It is designed for hands-on learning and experimentation.
+This repository provides practical implementations of key machine learning concepts using Jupyter Notebooks on Raw Housing Data. It is designed for hands-on learning and experimentation.
 
 Repository Overview
 
