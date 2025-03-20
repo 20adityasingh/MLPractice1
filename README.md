@@ -3,7 +3,6 @@ This repository provides practical implementations of key machine learning conce
 
 Repository Overview
 Notebook: MLPractice1.ipynb
-
 Key Topics:
 
 Data preprocessing (handling missing values, encoding, scaling)
