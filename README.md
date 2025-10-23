@@ -19,4 +19,4 @@ Key Topics:
 
          Feature engineering techniques
 
-         Hyperparameter tuning for optimal performance
+         Hyperparameters tuning for optimal performance
